@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym-Control", "Gym-Control\Gym-Control.csproj", "{FAE27ADD-C65B-4303-888D-157153CEBE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym-Control.Client", "Gym-Control.Client\Gym-Control.Client.csproj", "{8509DDCF-E68A-495F-B116-A3AD1562D855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE27ADD-C65B-4303-888D-157153CEBE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE27ADD-C65B-4303-888D-157153CEBE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE27ADD-C65B-4303-888D-157153CEBE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE27ADD-C65B-4303-888D-157153CEBE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8509DDCF-E68A-495F-B116-A3AD1562D855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8509DDCF-E68A-495F-B116-A3AD1562D855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8509DDCF-E68A-495F-B116-A3AD1562D855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8509DDCF-E68A-495F-B116-A3AD1562D855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B92E0B8-70B9-467F-9F6C-0D90BF2E4B5C}
+	EndGlobalSection
+EndGlobal
